@@ -1,0 +1,3 @@
+C:\Users\gysem\source\repos\WebScraper\bin\Release\net6.0\win-x64\publish\WebScraper.pdb
+C:\Users\gysem\source\repos\WebScraper\bin\Release\net6.0\win-x64\publish\NUnit3.TestAdapter.pdb
+C:\Users\gysem\source\repos\WebScraper\bin\Release\net6.0\win-x64\publish\WebScraper.exe
